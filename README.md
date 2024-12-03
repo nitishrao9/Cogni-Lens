@@ -1,5 +1,5 @@
 # Cogni-Lens
-#Lumi Sight
+
 **Project Overview:**
 This project focuses on enhancing the quality of life for individuals diagnosed with Alzheimer’s and Frontotemporal Dementia (FTD) through the use of innovative technology. The system integrates smart glasses, smartwatch, and a mobile app, equipped with artificial intelligence (AI) and advanced hardware, to assist patients in recognizing familiar faces, performing day-to-day tasks, navigating their environment, and communicating with caregivers.
 
